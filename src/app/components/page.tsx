@@ -152,9 +152,9 @@ export default function ComponentsPage() {
           {/* CTA Section */}
           <div className="text-center bg-gradient-to-r from-blue-600 to-purple-600 rounded-3xl p-12 text-white">
             <h2 className="text-3xl md:text-4xl font-bold mb-6">Need More Components?</h2>
-            <p className="text-xl mb-8 opacity-90">
-              We're constantly adding new components. Check back regularly for updates!
-            </p>
+                          <p className="text-xl mb-8 opacity-90">
+                We&apos;re constantly adding new components. Check back regularly for updates!
+              </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
                 href="https://github.com/prathamrohatgi26/Chhavi-UI"

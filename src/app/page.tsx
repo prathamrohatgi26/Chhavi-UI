@@ -43,7 +43,7 @@ export default function Home() {
               </h2>
               <p className="text-lg text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
                 Discover our collection of beautifully crafted components that will help you create stunning user interfaces. 
-                From buttons to complex layouts, we've got everything you need to build modern web applications.
+                From buttons to complex layouts, we&apos;ve got everything you need to build modern web applications.
               </p>
               
               <div className="flex flex-col sm:flex-row gap-4">

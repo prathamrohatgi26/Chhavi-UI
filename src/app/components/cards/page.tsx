@@ -210,7 +210,7 @@ export default function CardsPage() {
                       </div>
                     </div>
                     <p className="text-gray-600 dark:text-gray-300 italic">
-                      "This is an amazing product that has transformed our workflow completely."
+                      &ldquo;This is an amazing product that has transformed our workflow completely.&rdquo;
                     </p>
                   </div>
                 </div>
@@ -229,7 +229,7 @@ export default function CardsPage() {
     </div>
   </div>
   <p className="text-gray-600 dark:text-gray-300 italic">
-    "This is an amazing product that has transformed our workflow completely."
+    &ldquo;This is an amazing product that has transformed our workflow completely.&rdquo;
   </p>
 </div>`}
                   </pre>
